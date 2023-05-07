@@ -1,7 +1,7 @@
 # music-score share 樂譜分享
 music score sheet share
 
-# 檔案類型 *.
+# 檔案類型 *.mscz
 搭配使用 MUSESCORE
 
 # MUSECORE 安裝
